@@ -1,7 +1,7 @@
 # Author Nigel Slack
 # Date 11/Mar/2022
 
-# Held in Github : https://github.com/NigelSlack/Axivity-Sensor
+# Held in Github : https://github.com/NigelSlack/Axivity-Sensor/blob/main/labelData.py
 
 import subprocess
 import sys
